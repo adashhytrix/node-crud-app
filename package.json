@@ -1,0 +1,21 @@
+{
+    "name": "crud-app",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "description": "",
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "cors": "^2.8.5",
+        "ejs": "^3.1.10",
+        "express": "^5.1.0",
+        "git": "^0.1.5",
+        "mongoose": "^8.14.1",
+        "nodemon": "^3.1.10"
+    }
+}
